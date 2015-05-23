@@ -2,7 +2,7 @@
 
 For this assignment, you're going to set up your class project repository following the structure detailed below. Once you have completed it, you are going to fork this repository, update the README.md with a link to your project repository, then initiate a pull request. __NOTE__: the fork of this repository is NOT your project repository. You are simply forking this repository so you can update the README.md file with a link to your project repository. You can view the [project_structure](https://github.com/JSCRIPT300-Spring2015/project_structure) repository to see (or even fork) the structure you need to use.
 
-For this assignment you're going to set up your project repository (as a separate repository - not the fork of this assignment repository) and add to it the following:
+To set up your project repository (as a separate repository - not the fork of this assignment repository), add to it the following:
 
 an Express server that serves up the following endpoints:
 
