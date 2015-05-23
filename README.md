@@ -26,7 +26,7 @@ in an app directory, provide the following file:
 Inside the app directory there will be a models directory and a routes directory. Inside of each, respectively, include the following files:
 
 - truckModel.js - this defines the same foodTruckSchema as the Module_5 assignment, and exports the Truck model. It is recommended you leverage the work you've already done in previous assignments for this.
-- truckRoutes.js - this defines the __GET__ /trucks and __GET__ /trucks/:id routes. __*Optionally*__ you can also define the __POST__ /trucks, __PUT__ /trucks/:id, and __DELETE__ /trucks/:id, but they aren't required for your project. NOTE: for a public application, exposing POST, PUT, and DELETE routes can put your data at risk, so make sure you take care with implementing these routes if you choose to do so. It is recommended you leverage the work you've already done in previous assignments for this.
+- truckRoutes.js - this defines the __GET__ /trucks and __GET__ /trucks/:id routes. __*Optionally*__ you can also define the __POST__ /trucks, __PUT__ /trucks/:id, and __DELETE__ /trucks/:id, but they aren't required for your project. NOTE: for a public application, exposing __POST__, __PUT__, and __DELETE__ routes can put your data at risk, so make sure you take care with implementing these routes if you choose to do so. It is recommended you leverage the work you've already done in previous assignments for this.
 
 Inside the public directory, provide the following file:
 
